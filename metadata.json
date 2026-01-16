@@ -1,0 +1,5 @@
+{
+  "name": "QuickSafe QR Response",
+  "description": "A high-speed, mobile-first safety reporting application designed for public spaces via QR code scanning.",
+  "requestFramePermissions": []
+}
